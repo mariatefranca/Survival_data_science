@@ -5,4 +5,6 @@ The aim of this project was to develop a model to predict the chances of surviva
 
 This notebook was built as a final assignment for the 5 Weeks Data Science Bootcamp of AIplanet.
 
-![live-die-balanced-life-pictured](https://user-images.githubusercontent.com/106438902/218196062-7418b179-89f0-4e35-9bef-241295369152.jpg)
+
+![survival](https://user-images.githubusercontent.com/106438902/218203158-810ccb12-3350-4989-996f-8280bdb1a0f8.jpg)
+Image credits: Survival by Nick Youngson(http://www.nyphotographic.com/)
